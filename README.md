@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/dad61515-cf60-4812-b9a7-c6fb055cdc1f
 # 🕵️‍♂️ Motion Detection Using OpenCV
 
 This Python project uses OpenCV to detect motion from a webcam feed. It highlights moving objects in real-time and labels them with a status indicator.
@@ -27,6 +25,5 @@ This Python project uses OpenCV to detect motion from a webcam feed. It highligh
 4. Thresholding and contour detection are used to find movement.
 5. Bounding boxes are drawn around moving objects, and a "Moving Object Detected" message is displayed.
 
-   Uploading Testing rear collision.mp4…
-
+  
 
